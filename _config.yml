@@ -18,7 +18,8 @@ tagline:             "깃허브 이용 정적 웹 사이트 구축"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  # Data science enthusiast and addict :)
+  Web Developer LeeKunH!!! | CEO LeKunH!! | Investor LeeKunH!!!
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -26,7 +27,8 @@ author:
   email:             theorydb@gmail.com
 
 # Fallback image and color
-image:               /assets/img/main_left.jpg
+# image:               /assets/img/main_left.jpg
+image:               /assets/img/마인드멘토-하와이 대저택.png
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
