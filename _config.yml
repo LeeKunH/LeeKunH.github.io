@@ -18,7 +18,6 @@ tagline:             "깃허브 이용 정적 웹 사이트 구축"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  # Data science enthusiast and addict :)
   Web Developer LeeKunH!!! | CEO LeKunH!! | Investor LeeKunH!!!
 
 # This should be the same author as first entry in `_data/authors.yml`
