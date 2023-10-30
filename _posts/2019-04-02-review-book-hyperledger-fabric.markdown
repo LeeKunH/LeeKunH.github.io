@@ -9,7 +9,6 @@ header-img: img/review/2019-04-02-review-book-hyperledger-fabric-2-Cover.png
 ---
 
 ## 개요
-
 > 선배 블로그 벤치마킹 하면서 깃허브 이용 정적 웹 사이트 구축 연습 중.
 
 - 목차
